@@ -1,6 +1,6 @@
 # NotesApp
 
-![img](resources/logo512.png)
+![LogoNotesApp](resources/logo512.png)
 
 NotesApp is an application where several users created by the same or other people, can make notes or tasks with a date when they must be fulfilled, in addition to creating, they can edit the task or the note and change the date of its completion.
 
@@ -14,7 +14,7 @@ In the Action Buttons we see Edit where we edit our Note or task and Delete wher
 
 In the Create Note section we see that you can select the User in which you will create your next note or task, below the title of the task, its content and the date on which you have to complete that task.
 
-![CreateUser](resources/createUser)
+![CreateUser](resources/createUser.PNG)
 
 In the Create User section we create different users so that they can start creating their own tasks or notes, to Delete Users just double click and the clicked user will be Automatically Deleted.
 
