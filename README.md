@@ -1,6 +1,6 @@
 # NotesApp
 
-![LogoNotesApp](resources/logo512.png)
+![img](resources/logo512.png)
 
 NotesApp is an application where several users created by the same or other people, can make notes or tasks with a date when they must be fulfilled, in addition to creating, they can edit the task or the note and change the date of its completion.
 
@@ -34,6 +34,8 @@ npm run dev
 # Frontend
 
 Frontend is made with REACT
+
+## Installation
 
 ```
 cd frontend
